@@ -11,12 +11,11 @@
 - HI FRIENDS ❤️🎉 **I love to get people who are expert in cyber sec 👨‍**
 
 - I'm **Currently using a 4gb ram potato pc and studying coding If you want to hire me for your websites**
-- contact me Through <a href="instagram.com/" target="blank"><img align="centre" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="ZBRT" height="30" widht="40" /></a>
+- contact me Through <a href="instagram.com/klsiy" target="blank"><img align="centre" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="ZBRT" height="30" widht="40" /></a>
 
  MY OLD GITHUBS ARE AS FOLLOWS 😂
  
- src="www.github.com/Oggyser" alt="android" width="40" height="40"/> </a> <a>
- src="www.github.com/r3ap3er" alt=android' widht="40" height="40"/> </a> <a>
+ <a href="github.com/Oggyser" target="blank"><img align="centre" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="zbrt" height="30" widht="30" /></a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +24,7 @@
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Oggyser" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Oggyser" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hackerking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerking" height="30" width="40" /></a>
-<a href="https://wa.me/919111111111"blank"><img align="centre" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Oggyser" height="30" width="40" /></a>
+<a href="https://wa.me/919111111111"> blank"><img align="centre" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Oggyser" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
