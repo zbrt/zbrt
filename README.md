@@ -2,7 +2,7 @@
 !.[hacker](https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif)
 <h1> Hey my name is ZBRT 😻 </h1>
 <h3 align="center">A 14 year old, ethical Hacker  from India♥️</h3>
-<p align="left"> <img src="<div class="tenor-gif-embed" data-postid="19246156" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/123-gif-19246156">123 Sticker</a>from <a href="https://c.tenor.com/VrZKjGxIIiAAAAAi/123.gif" alt="Oggyser" /> </p>
+
 <h1 align="center">Hi 👋, I'm **r3ap3er**</h1>
 <h3 align="center">I have been here since 2018 and will keep going . I am Red hat hacker and is eing targeting pedoss. I want to be a succesfull penetration tester over the comming years</h3>
 
@@ -16,8 +16,8 @@
 - contact me Through <a href="instagram.com/klsiy" target="blank"><img align="centre" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="ZBRT" height="30" widht="40" /></a>
 
  MY OLD GITHUBS ARE AS FOLLOWS 😂
- 
- <a href="github.com/Oggyser" target="blank"><img align="centre" src="https://cdns.iconmonstr.com/wp-content/assets/previewtarget="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Oggyser" height="30" width="40" /></a>/2012/240/iconmonstr-github-1.png" alt="zbrt" height="30" widht="30" /></a>
+ <p align="left">
+<a href="https://github.com/Oggyser" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Oggyser" height="30" width="40" /></a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
