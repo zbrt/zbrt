@@ -15,11 +15,11 @@
 
  MY OLD GITHUBS ARE AS FOLLOWS 😂
  
- <a href="github.com/Oggyser" target="blank"><img align="centre" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="zbrt" height="30" widht="30" /></a>
+ <a href="github.com/Oggyser" target="blank"><img align="centre" src="https://cdns.iconmonstr.com/wp-content/assets/previewtarget="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Oggyser" height="30" width="40" /></a>/2012/240/iconmonstr-github-1.png" alt="zbrt" height="30" widht="30" /></a>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/eoew3">blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Oggyser" height="30" width="40" /></a>
+<a href="https://twitter.com/eoew3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Oggyser" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Oggyser" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Oggyser" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Oggyser" height="30" width="40" /></a>
